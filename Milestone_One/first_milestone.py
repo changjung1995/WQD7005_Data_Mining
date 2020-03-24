@@ -56,6 +56,21 @@ for cc in cryptocurrency:
     # get the title from html content
     title = table.h2.text
     df = pd.DataFrame(data)
+    df["Date"] = pd.to_datetime(df["Date"]).dt.strftime('%Y-%m-%d')
+    df['Open*'] = df['Open*'].str.replace(',','')
+    df['Open*'] = df['Open*'].astype('float64').round(2)
+    df['High'] = df['High'].str.replace(',','')
+    df['High'] = df['High'].astype('float64').round(2)
+    df['Low'] = df['Low'].str.replace(',','')
+    df['Low'] = df['Low'].astype('float64').round(2)
+    df['Close**'] = df['Close**'].str.replace(',','')
+    df['Close**'] = df['Close**'].astype('float64').round(2)
+    df['Volume'] = df['Volume'].str.replace(',','')
+    df['Volume'] = df['Volume'].astype('float64').round(2)
+    df['Market Cap'] = df['Market Cap'].str.replace(',','')
+    df['Market Cap'] = df['Market Cap'].astype('float64').round(2)
+    
+    # save to csv
     df.to_csv(title + '.csv', index = False)
     
     
