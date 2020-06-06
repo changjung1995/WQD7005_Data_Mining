@@ -1,9 +1,9 @@
-# Mileston 2 
+## Milestone 2 
 
-## Title : Application of Data Mining in Price Movement of Cryptocurrency
+### Title : Application of Data Mining in Price Movement of Cryptocurrency
 
-## Team Member: 
-## 1. Tan Chang Jung
-## 2. Tan Sia Hong
+### Team Member: 
+### 1. Tan Chang Jung
+### 2. Tan Sia Hong
 
-## Presentation Video: https://drive.google.com/file/d/1Edhkywf2lKtzASOhj_xPABT-_Jh4zHB_/view?usp=sharing
+### Presentation Video: https://drive.google.com/file/d/1Edhkywf2lKtzASOhj_xPABT-_Jh4zHB_/view?usp=sharing
