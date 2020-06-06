@@ -1,4 +1,4 @@
-## Milestone 2 
+## Milestone 2 : Store data into Hive data warehouse
 
 ### Title : Application of Data Mining in Price Movement of Cryptocurrency
 
