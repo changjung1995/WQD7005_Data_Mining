@@ -7,3 +7,5 @@
 ### 2. Tan Sia Hong
 
 ### Presentation Video: https://drive.google.com/file/d/1Edhkywf2lKtzASOhj_xPABT-_Jh4zHB_/view?usp=sharing
+
+### Hortonworks Sandbox HDP : https://www.cloudera.com/downloads/hortonworks-sandbox.html
