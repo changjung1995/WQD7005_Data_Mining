@@ -8,6 +8,8 @@
 
 ### Presentation Video: https://drive.google.com/file/d/1TzXuZFZEBHPbe4aUVoM1QOSjoOCdCtW2/view?usp=sharing
 
+### Documentation: https://github.com/changjung1995/WQD7005_Data_Mining/blob/master/Milestone_Five/Milestone5_Tan_Chang_Jung.pdf
+
 ### Web link: https://cryptofortwp.herokuapp.com/
 
 ### Mobile .apk file: https://drive.google.com/file/d/1V7mxJGB2b8lqo5kCZqARHbzFXjeewds3/view?usp=sharing
