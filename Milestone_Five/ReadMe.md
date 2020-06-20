@@ -46,4 +46,5 @@ The webview will load the url from our web application.
 ![image](https://user-images.githubusercontent.com/55917583/85195348-2af28780-b304-11ea-96fe-c3db7206f80e.png)
 
 The final view of mobile app will looks as below:
+
 ![image](https://user-images.githubusercontent.com/55917583/85195359-3940a380-b304-11ea-953a-b6bb8d1bbb2b.png)
