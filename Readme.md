@@ -38,8 +38,8 @@ In Milestone 4, I was doing descriptive analytics and predictive analytics on th
 In Milestone 5, we were using python Dash to create the dashboard for web application. Dash is an open source framework on top of Flask. The web application was built to visualize the price of cryptocurrencies, as well as predicting the closing price for cryptocurrencies of next day. For the Android mobile application, we have converted our web application into mobile application by using Android Studio.
 
 ##### Web Application
-![image](https://user-images.githubusercontent.com/55917583/85192631-d6481000-b2f5-11ea-88c2-676eadc19faa.png)
+![image](https://user-images.githubusercontent.com/55917583/85192720-28893100-b2f6-11ea-8eac-510ae72eb519.png)
 
 ##### Android Mobile App
-![image](https://user-images.githubusercontent.com/55917583/85192660-f1b31b00-b2f5-11ea-8067-8832d89a97bf.png)
+![image](https://user-images.githubusercontent.com/55917583/85192742-3a6ad400-b2f6-11ea-823c-f40fb00ecc40.png)
 
