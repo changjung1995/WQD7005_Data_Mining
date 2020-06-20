@@ -1,0 +1,13 @@
+Title: Application of Data Mining in Price Movement of Cryptocurrency
+
+Team Member:
+1. Tan Chang Jung
+2. Tan Sia Hong
+
+Github for full milestone: https://github.com/changjung1995/WQD7005_Data_Mining
+
+Github for Milestone 5: 
+https://github.com/changjung1995/WQD7005_Data_Mining/tree/master/Milestone_Five
+
+Web Application: 
+https://cryptofortwp.herokuapp.com/
