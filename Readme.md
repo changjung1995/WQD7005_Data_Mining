@@ -27,7 +27,7 @@ In Milestone 2, the crawled data are required to store in the data warehouse. We
 ##### Presentation video: https://drive.google.com/file/d/1gp7MtpHjfgn9bRYkURwl3R8gEiLTqBJQ/view?usp=sharing
 In Milestone 3, I was connected to Hive database via Python by using pyodbc library. First, it is required to create a data server name to using Microsoft ODBC data source, as the connection to Hive was done through ODBC connection. After connected with correct host and port, as well as its authorization, I was able to access Hive database by using Python. 
 
-![image](https://user-images.githubusercontent.com/55917583/85192526-676ab700-b2f5-11ea-922f-b6dadbee786c.png)
+![image](https://user-images.githubusercontent.com/55917583/85192861-b9600c80-b2f6-11ea-833d-de19c17b82f7.png)
 
 ##### 4. Milestone 4 (https://github.com/changjung1995/WQD7005_Data_Mining/tree/master/Milestone_Four)
 ##### Presentation video: https://drive.google.com/file/d/1cahiU7gBkH0ZWA9OFyBGQlVXGcPr__gc/view?usp=sharing
