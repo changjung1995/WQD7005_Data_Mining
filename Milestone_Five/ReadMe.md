@@ -26,6 +26,7 @@ Other than that, the crawled dataset was used to present in the table data.
 ![image](https://user-images.githubusercontent.com/55917583/85195305-d8b16680-b303-11ea-9f1d-3a49e350f8a3.png)
 
 Furthermore, the previous 90-days of closing price will be used to predict the one-step ahead closing price by using the trained LSTM model. 
+
 ![image](https://user-images.githubusercontent.com/55917583/85195318-e961dc80-b303-11ea-9e3c-3679a29c6dda.png)
 
 In addition, we have used the NewsAPI for crawling the news headline related to cryptocurrencies. When user clicks on the headline, the web will redirect the user to the news webpage.  
