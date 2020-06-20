@@ -8,6 +8,8 @@
 
 ### Presentation Video: https://drive.google.com/file/d/1gp7MtpHjfgn9bRYkURwl3R8gEiLTqBJQ/view?usp=sharing
 
+### Documentation: https://github.com/changjung1995/WQD7005_Data_Mining/blob/master/Milestone_Three/Milestone3_Tan_Chang_Jung.pdf
+
 ##### Python accessed to Hive database by using ODBC connection, which is required library 'pyodbc'.
 
 ### pyodbc : pip install pyodbc (https://pypi.org/project/pyodbc/)
