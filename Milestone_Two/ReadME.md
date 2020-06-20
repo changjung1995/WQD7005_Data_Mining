@@ -8,6 +8,8 @@
 
 ### Presentation Video: https://drive.google.com/file/d/1Edhkywf2lKtzASOhj_xPABT-_Jh4zHB_/view?usp=sharing
 
+### Documentation: https://github.com/changjung1995/WQD7005_Data_Mining/blob/master/Milestone_Two/Milestone2_Tan_Chang_jung.pdf
+
 ### Hortonworks Sandbox HDP : https://www.cloudera.com/downloads/hortonworks-sandbox.html
 
 ### WinSCP : https://sourceforge.net/projects/winscp/files/WinSCP/5.17.6/WinSCP-5.17.6-Setup.exe/download
