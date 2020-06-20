@@ -4,5 +4,8 @@
 
 ### Team Member: 
 ### 1. Tan Chang Jung
+### https://github.com/changjung1995/WQD7005_Data_Mining
+
 ### 2. Tan Sia Hong
+### https://github.com/jasonhong94/-WQD7005_Data_Mining
 
