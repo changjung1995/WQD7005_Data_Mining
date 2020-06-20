@@ -10,4 +10,5 @@
 
 ##### In Milestone 4, there are some basic statistics to be explained. 
 ##### Also, the prediction of future closing price of cryptocurrency was performed by using recurrent neural network - Long-Short Term Memory (LSTM).
+##### Documentation are explained within the .ipynb files.
 
