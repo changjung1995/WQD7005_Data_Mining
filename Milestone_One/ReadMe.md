@@ -8,6 +8,8 @@
 
 ### Presentation video: https://www.youtube.com/watch?v=fU2Db8uiP8U&t=1078s
 
+### Documentation: https://github.com/changjung1995/WQD7005_Data_Mining/blob/master/Milestone_One/Milestone1_Tan_Chang_jung.pdf
+
 ### Beautiful Soup (https://pypi.org/project/bs4/) --pip install bs4
 
 ##### Introduction
