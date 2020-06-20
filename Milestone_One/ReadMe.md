@@ -8,6 +8,9 @@
 
 ### Presentation video: https://www.youtube.com/watch?v=fU2Db8uiP8U&t=1078s
 
+### Beautiful Soup (https://pypi.org/project/bs4/)
+### pip install bs4
+
 ##### Introduction
 How do the cryptocurrencies behave? What are the causes of the fluctuation of cryptocurrency value? How can we predict the future value of cryptocurrencies? 
 
